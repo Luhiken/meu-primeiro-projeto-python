@@ -14,7 +14,9 @@ Este projeto representa o início da minha jornada prática em lógica de progra
 
 ## Sobre mim
 
-Sou especialista em Mercado Imobiliário e estudante de Inteligência Artificial, buscando unir minha experiência profissional com tecnologia para desenvolver soluções inteligentes.
+Sou especialista no Mercado Imobiliário e estudante de Inteligência Artificial.
+
+Estou desenvolvendo meus conhecimentos em programação e criando meus primeiros projetos em Python, buscando unir minha experiência no mercado imobiliário à tecnologia e ampliar minha atuação por meio do desenvolvimento de soluções inteligentes para diferentes áreas e necessidades.
 
 ---
 
